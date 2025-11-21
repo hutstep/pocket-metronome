@@ -37,8 +37,8 @@ A professional-grade, high-precision metronome web application built for musicia
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/metronome-pro.git
-   cd metronome-pro
+   git clone https://github.com/hutstep/pocket-metronome.git
+   cd pocket-metronome
    ```
 
 2. Install dependencies:
